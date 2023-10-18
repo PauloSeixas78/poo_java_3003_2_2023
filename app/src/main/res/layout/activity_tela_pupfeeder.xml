@@ -8,9 +8,10 @@
     tools:context=".TelaPupfeeder">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonRacoes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_racao_foreground"
         android:text="Button" />
 
     <Button
